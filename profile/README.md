@@ -2,8 +2,7 @@
 
 [![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/VhFVsbsqKx)
 
-**FIT (Freezing Internet Tool)** is a modular suite of Python applications for digital forensic acquisition of online contents such as web pages, emails, social media, and more.  
-Each module can run independently or as part of the full FIT suite.
+**FIT (Freezing Internet Tool)** is a modular suite of Python applications for digital forensic acquisition of online contents such as web pages, emails, social media, and more. Each module can run independently or as part of the full FIT suite.
 
 ---
 
